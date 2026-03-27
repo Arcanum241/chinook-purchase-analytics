@@ -1,4 +1,3 @@
-# chinook-purchase-analytics
 # Customer Purchase Analytics
 
 A SQL analysis of customer re-engagement patterns in the Chinook database — identifying the time gap between each customer's first and second purchase to support data-driven retention decisions.
